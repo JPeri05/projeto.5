@@ -1,0 +1,24 @@
+.body-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(/img/another-him.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header-page {
+    width: auto;
+    height: 80px;
+    background-color: black;
+    padding-top: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
+.nav-page a {
+    color: yellow;
+    font-size: 2rem;
+}
+.nav-page ul {
+    display: flex;
+    justify-content: left;
+}
